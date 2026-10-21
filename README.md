@@ -1,2 +1,0 @@
-# sogol-payment
-payment-card
